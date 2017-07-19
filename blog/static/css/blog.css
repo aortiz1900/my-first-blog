@@ -1,0 +1,16 @@
+.page-header {
+    background-color: #F2B9FF;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+h1 a {
+	color: #FFFFFF;
+	font-family: 'Lobster Two', cursive;
+	font-size: 50px;
+		}
+body {
+    padding-left: 15px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F4F4F4   ;
+    color: black;
+}
